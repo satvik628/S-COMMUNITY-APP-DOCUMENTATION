@@ -1,0 +1,2 @@
+# S-COMMUNITY-APP-DOCUMENTATION
+Documentation related to S-COMMUNITY APP
